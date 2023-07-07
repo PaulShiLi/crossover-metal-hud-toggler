@@ -1,5 +1,5 @@
 #!/bin/bash
-bottlename=Steam
+bottlename=Steam # Set to whatever bottle name you wish to enable to HUD for
 user=$(whoami)
 title="Crossover Metal HUD Toggler"
 
